@@ -3,4 +3,6 @@ This is a study plan is for those who want to prepare for technical interviews i
 
 https://leetcode.com/study-plan/leetcode-75/?progress=ggz6eyg
 
+# Detailed Explanation of Dynamic Programming
 
+https://leetcode.com/explore/learn/card/dynamic-programming/
